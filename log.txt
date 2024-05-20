@@ -1,7 +1,7 @@
 Tout est correct.
-Il y a une erreur ici.
+Il y a une correct ici.
 Cette ligne est correcte.
-Une autre erreur est présente.
+Une autre correct est présente.
 Pas de problème ici.
 La maladie à coronavirus (COVID19) est une maladie infectieuse due au virus SARS-CoV-2.
 
